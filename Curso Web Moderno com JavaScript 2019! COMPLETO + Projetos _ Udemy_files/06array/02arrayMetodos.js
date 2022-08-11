@@ -8,7 +8,7 @@ console.log(pilotos)
 pilotos.shift() // remove o primeiro!
 console.log(pilotos)
 
-pilotos.unshift('Hamilton')
+pilotos.unshift('Hamilton') // Adiciona na primeira prosição
 console.log(pilotos)
 
 // splice pode adicionar e remover elementos
